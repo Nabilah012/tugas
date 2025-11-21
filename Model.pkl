@@ -1,0 +1,33 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from sklearn.ensemble import RandomForestClassifier
+import pickle
+
+# === 1. Load dataset ===
+df = pd.read_csv("dataset.csv")   # ganti sesuai nama file kamu
+
+# === 2. Pisahkan fitur dan target ===
+X = df.drop("Churn", axis=1)
+y = df["Churn"]
+
+# === 3. Encode semua kolom kategorikal ===
+for col in X.select_dtypes(include=['object']).columns:
+    X[col] = LabelEncoder().fit_transform(X[col])
+
+y = LabelEncoder().fit_transform(y)
+
+# === 4. Train test split ===
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42, stratify=y
+)
+
+# === 5. Train model ===
+model = RandomForestClassifier()
+model.fit(X_train, y_train)
+
+# === 6. Save model ===
+with open("model.pkl", "wb") as f:
+    pickle.dump(model, f)
+
+print("Model berhasil disimpan sebagai model.pkl")
