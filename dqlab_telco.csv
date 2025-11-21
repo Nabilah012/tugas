@@ -1,0 +1,1050 @@
+UpdatedAt,customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+202006,45759018157,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.85,29.85,No
+202006,45557574145,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,56.95,1889.5,No
+202006,45366876421,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,53.85,108.15,Yes
+202006,45779536532,Male,0,No,No,45,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),42.3,1840.75,No
+202006,45923787906,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.7,151.65,Yes
+202006,45930534913,Female,0,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.65,820.5,Yes
+202006,45145219511,Male,0,No,Yes,22,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89.1,1949.4,No
+202006,45671351533,Female,0,No,No,10,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,29.75,301.9,No
+202006,45789265516,Female,0,Yes,No,28,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.8,3046.05,Yes
+202006,45638801276,Male,0,No,Yes,62,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Bank transfer (automatic),56.15,3487.95,No
+202006,45976378914,Male,0,Yes,Yes,13,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,49.95,587.45,No
+202006,45746921239,Male,0,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),18.95,326.8,No
+202006,45809100113,Male,0,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),100.35,5681.1,No
+202006,45028030753,Male,0,No,No,49,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103.7,5036.3,Yes
+202006,45512902699,Male,0,No,No,25,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.5,2686.05,No
+202006,4.54E+11,Female,0,Yes,Yes,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),113.25,7895.15,No
+202006,45819132957,Female,0,No,No,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.65,1022.95,No
+202006,45995925610,Male,0,No,Yes,71,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),106.7,7382.25,No
+202006,45419036262,Female,0,Yes,Yes,10,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),55.2,528.35,Yes
+202006,45418334682,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,90.05,1862.9,No
+202006,45877978431,Male,1,No,No,1,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,39.65,39.65,Yes
+202006,45168014322,Male,0,Yes,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.8,202.25,No
+202006,45106601971,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.15,20.15,Yes
+202006,45363825122,Female,0,Yes,No,58,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),59.9,3505.1,No
+202006,45632288661,Male,0,Yes,Yes,49,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),59.6,2970.3,No
+202006,45686505415,Female,0,No,No,30,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55.3,1530.6,No
+202006,45646738652,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.35,4749.15,Yes
+202006,4.59E+11,Male,0,Yes,Yes,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,30.2,30.2,Yes
+202006,45524847904,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90.25,6369.45,No
+202006,45877388655,Female,0,No,Yes,17,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,64.7,1093.1,Yes
+202006,45384146533,Female,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),96.35,6766.95,No
+202006,45492939812,Male,1,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.5,181.65,No
+202006,45682795167,Female,0,Yes,Yes,27,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,66.15,1874.45,No
+202006,45731057185,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.2,20.2,No
+202006,45341323455,Male,1,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),45.25,45.25,No
+202006,45623481162,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),99.9,7251.7,No
+202006,45604748619,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.7,316.9,Yes
+202006,45657214189,Female,0,No,No,46,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),74.8,3548.3,No
+202006,45538020151,Male,0,No,No,34,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106.35,3549.25,Yes
+202006,45816867226,Female,0,No,No,,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),97.85,1105.4,Yes
+202006,45886504343,Male,0,Yes,Yes,10,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,49.55,475.7,No
+202006,45948945416,Female,0,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card (automatic),69.2,4872.35,No
+202006,45986703596,Female,0,Yes,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.75,418.25,No
+202006,45467110232,Female,0,No,No,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),79.85,4861.45,No
+202006,45408099184,Female,0,Yes,No,13,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,76.2,981.45,No
+202006,45371440465,Female,0,No,No,49,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.5,3906.7,No
+202006,45594860526,Male,0,No,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,49.25,97,No
+202006,45776054644,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.65,144.15,Yes
+202006,45763929149,Male,0,No,No,52,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),79.75,4217.8,No
+202006,45295469215,Female,0,Yes,Yes,69,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),64.15,4254.1,No
+202006,45801295647,Female,1,No,No,43,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90.25,3838.75,No
+202006,45942025013,Female,0,No,No,15,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.1,1426.4,Yes
+202006,45657596159,Female,1,Yes,No,25,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),69.5,1752.65,No
+202006,45749555164,Female,1,Yes,No,8,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),80.65,633.3,Yes
+202006,45466775451,Female,1,Yes,Yes,60,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),74.85,4456.35,No
+202006,45165824754,Male,1,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.45,1752.55,Yes
+202006,45876911068,Female,0,Yes,Yes,63,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),99.65,6311.2,No
+202006,45506730766,Male,1,Yes,Yes,66,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,108.45,7076.35,No
+202006,45395797332,Female,0,Yes,Yes,34,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),24.95,894.3,No
+202006,45595424697,Female,0,No,No,72,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),107.5,7853.7,No
+202006,45043439654,Female,0,Yes,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.5,4707.1,No
+202006,45121569736,Male,0,No,No,60,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89.9,5450.7,No
+202006,45052693406,Male,0,Yes,No,72,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Bank transfer (automatic),42.1,2962,No
+202006,45055719116,Female,0,Yes,Yes,18,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),54.4,957.1,No
+202006,45569827058,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94.4,857.25,Yes
+202006,45512234631,Female,0,No,No,3,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,75.3,244.1,No
+202006,45862754795,Male,0,Yes,No,47,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Electronic check,78.9,3650.35,No
+202006,45341045727,Female,0,No,No,31,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,79.2,2497.2,No
+202006,45317043411,Female,0,Yes,Yes,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.15,930.9,No
+202006,45741059546,Male,0,No,No,10,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.85,887.35,No
+202006,45227373131,Male,0,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,49.05,49.05,No
+202006,45073152072,Female,0,Yes,Yes,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.4,1090.65,No
+202006,45189178791,Male,1,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),111.6,7099,No
+202006,45802864387,Male,0,Yes,Yes,62,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.25,1424.6,No
+202006,45563018592,Female,0,No,Yes,3,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),64.5,177.4,No
+202006,45267333756,Female,1,No,No,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,110.5,6139.5,No
+202006,45641604181,Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),55.65,2688.85,No
+202006,45559059181,Female,0,Yes,Yes,8,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,54.65,482.25,No
+202006,45019158915,Male,1,No,No,30,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,74.75,2111.3,No
+202006,45388762715,Female,0,Yes,Yes,45,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),25.9,1216.6,No
+202006,45591903874,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.35,79.35,Yes
+202006,45810863874,Female,0,Yes,Yes,,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,50.55,565.35,No
+202006,45919134713,Female,0,Yes,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.15,496.9,Yes
+202006,45991942447,Female,0,No,No,42,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103.8,4327.5,No
+202006,45031855629,Female,0,Yes,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),20.15,973.35,No
+202006,45444550436,Male,0,No,No,9,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.3,918.75,No
+202006,45480844256,Female,0,Yes,No,35,Yes,No,DSL,Yes,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),62.15,2215.45,No
+202006,45186278265,Female,0,Yes,Yes,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.65,1057,No
+202006,45279644669,Female,0,Yes,Yes,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,19.95,927.1,No
+202006,45301619136,Male,0,Yes,No,29,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,33.75,1009.25,No
+202006,45476785587,Male,0,Yes,Yes,30,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),82.05,2570.2,No
+202006,45242421862,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,74.7,74.7,No
+202006,45723361882,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,84,5714.25,No
+202006,45606747356,Female,0,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111.05,7107,No
+202006,45984807003,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),100.9,7459.05,No
+202006,45863730918,Female,0,No,No,12,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,78.95,927.35,Yes
+202006,45980360037,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),66.85,4748.7,No
+202006,45027843557,Male,0,No,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,,113.85,Yes
+202006,45321213538,Male,0,No,No,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),,1107.2,No
+202006,45459832140,Female,1,Yes,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.5,2514.5,Yes
+202006,45638018358,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.2,20.2,No
+202006,45367931964,Female,0,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,19.45,19.45,No
+202006,45712327683,Male,0,No,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),95,3605.6,No
+202006,45538608927,Female,1,Yes,No,66,No,No phone service,DSL,No,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),45.55,3027.25,No
+202006,45319247531,Male,0,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,7611.85,Yes
+202006,45618042979,Male,0,No,No,5,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24.3,100.2,No
+202006,45672841635,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,104.15,7303.05,No
+202006,45975025581,Female,0,No,No,32,No,No phone service,DSL,Yes,No,No,No,No,No,One year,No,Mailed check,30.15,927.65,No
+202006,45859732488,Male,0,No,No,43,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Mailed check,94.35,3921.3,No
+202006,45284843932,Male,0,Yes,Yes,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.4,1363.25,No
+202006,45048685359,Male,0,Yes,No,55,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,96.75,5238.9,Yes
+202006,45454954744,Female,0,No,No,52,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,No,Credit card (automatic),57.95,3042.25,No
+202006,45571218744,Female,0,No,No,43,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,91.65,3954.1,No
+202006,45484628165,Female,1,Yes,No,37,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.5,2868.15,Yes
+202006,45525691075,Female,0,Yes,Yes,64,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,54.6,3423.5,No
+202006,45307112465,Male,0,Yes,Yes,3,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,89.85,248.4,No
+202006,45956022531,Female,0,No,No,36,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),31.05,1126.35,No
+202006,45529986251,Female,0,Yes,Yes,10,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.25,1064.65,Yes
+202006,45840255580,Female,0,No,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.65,835.15,No
+202006,45944556575,Male,0,Yes,Yes,27,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),85.2,2151.6,No
+202006,45109195571,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),99.8,5515.45,No
+202006,45292882421,Female,0,No,No,6,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.7,112.75,No
+202006,45040492817,Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.4,229.55,Yes
+202006,45649709212,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,50.7,350.35,No
+202006,45721902585,Female,0,Yes,Yes,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.85,62.9,No
+202006,45462244190,Male,0,No,No,33,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,Yes,Electronic check,88.95,3027.65,No
+202006,45441242016,Female,1,No,No,27,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,78.05,2135.5,Yes
+202006,45673469212,Male,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),23.55,1723.95,No
+202006,45393057215,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.75,19.75,No
+202006,45263967315,Male,1,No,No,71,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,56.45,3985.35,No
+202006,45287675453,Female,0,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.95,1215.65,No
+202006,45620729523,Female,0,Yes,Yes,25,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),58.6,1502.65,Yes
+202006,45858734596,Male,0,No,No,67,Yes,No,DSL,No,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),50.55,3260.1,No
+202006,45309164819,Male,0,No,No,1,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35.45,35.45,Yes
+202006,45237282689,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44.35,81.25,Yes
+202006,45779927846,Female,0,No,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.7,1188.2,No
+202006,45785012066,Female,0,No,No,23,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,1778.5,No
+202006,45377412434,Female,0,Yes,Yes,64,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.2,1277.75,No
+202006,45621714423,Male,0,No,Yes,57,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,19.6,1170.55,No
+202006,45039043647,Female,1,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.45,70.45,Yes
+202006,45314639576,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88.05,6425.65,No
+202006,45408057602,Female,0,No,No,8,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,71.15,563.65,Yes
+202006,45109527477,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),101.05,5971.25,No
+202006,45263690456,Male,0,No,No,64,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),84.3,5289.05,No
+202006,45113177552,Male,1,Yes,No,71,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),23.95,1756.2,No
+202006,45571655354,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),99.05,6416.7,No
+202006,45683720447,Male,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.6,61.35,No
+202006,45213583987,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.65,45.65,Yes
+202006,45644041775,Male,0,No,Yes,30,Yes,No,DSL,No,Yes,Yes,No,Yes,No,One year,No,Credit card (automatic),64.5,1929.95,No
+202006,45346624114,Male,0,Yes,Yes,15,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,69.5,1071.4,No
+202006,45378041361,Female,0,Yes,Yes,8,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,68.55,564.35,No
+202006,4.54E+11,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,95,655.5,Yes
+202006,45167908628,Female,0,Yes,Yes,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),108.15,7930.55,No
+202006,45907355914,Male,0,Yes,Yes,62,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,86.1,5215.25,No
+202006,45307789400,Female,0,Yes,Yes,6,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.7,113.5,No
+202006,45655174447,Female,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),80.9,1152.8,No
+202006,45916716335,Female,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),84.15,1821.95,No
+202006,45274930110,Male,0,Yes,Yes,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.15,419.9,No
+202006,45637145457,Male,0,Yes,Yes,16,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,64.25,1024,No
+202006,45755445244,Male,0,No,No,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.7,251.6,No
+202006,45899215404,Female,0,No,Yes,13,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,56,764.55,No
+202006,45086731514,Female,0,Yes,No,20,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,82.4,1592.35,Yes
+202006,45448252639,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.7,135.2,No
+202006,45464846203,Male,0,No,No,53,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),73.9,3958.25,No
+202006,45290792024,Female,0,Yes,Yes,,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.6,233.9,No
+202006,45634565578,Male,0,Yes,No,69,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.9,1363.45,No
+202006,45337623765,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70.9,273,Yes
+202006,45599756161,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),89.05,6254.45,No
+202006,45344583376,Male,1,Yes,No,58,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,45.3,2651.2,Yes
+202006,45115926978,Female,0,Yes,Yes,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,20.4,321.4,No
+202006,45765442066,Male,0,Yes,No,43,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),84.25,3539.25,No
+202006,45187579135,Female,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.4,242.8,Yes
+202006,45672795025,Male,0,Yes,No,14,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,81.95,1181.75,No
+202006,45069101941,Female,0,Yes,No,53,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),94.85,5000.2,Yes
+202006,45591816126,Female,0,No,No,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.55,654.55,No
+202006,45174408149,Female,0,Yes,No,34,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,24.7,780.2,No
+202006,45265663515,Female,1,No,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.45,1145.7,Yes
+202006,45207064535,Female,1,No,No,7,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),76.45,503.6,Yes
+202006,45594797132,Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105.35,1559.25,No
+202006,45371261351,Male,0,Yes,No,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.55,1252,No
+202006,45631746148,Female,0,No,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),29.95,29.95,Yes
+202006,45658259196,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.3,45.3,No
+202006,45936723238,Male,0,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),84.5,662.65,Yes
+202006,45552418406,Male,0,Yes,Yes,33,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),74.75,2453.3,No
+202006,45191852670,Female,0,No,No,13,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,79.25,1111.65,Yes
+202006,45102476124,Female,0,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.8,24.8,Yes
+202006,45482769086,Male,0,No,No,20,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,51.8,1023.85,No
+202006,45816770284,Male,0,No,No,3,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,30.4,82.15,No
+202006,45095694327,Female,0,No,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,19.65,244.8,No
+202006,45801761956,Female,0,Yes,No,40,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),56.6,2379.1,No
+202006,45710067681,Male,0,Yes,Yes,43,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,One year,Yes,Credit card (automatic),71.9,3173.35,No
+202006,45247251166,Male,0,Yes,No,6,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,91,531,Yes
+202006,45298487541,Female,0,Yes,Yes,69,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.75,1375.4,No
+202006,45968049161,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),109.7,8129.3,No
+202006,45214657140,Male,0,Yes,Yes,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.3,1192.7,No
+202006,45260490646,Female,0,Yes,No,20,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,96.55,1901.65,No
+202006,45917808610,Male,0,Yes,Yes,24,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.1,587.4,No
+202006,45616842446,Male,0,No,No,59,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,111.35,6519.75,No
+202006,45725599623,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112.25,8041.65,No
+202006,45364545476,Male,0,No,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.75,20.75,No
+202006,45932387624,Female,0,Yes,No,27,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),101.9,2681.15,No
+202006,45854475798,Female,0,No,No,14,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),80.05,1112.3,No
+202006,45336340914,Male,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,105.55,7405.5,No
+202006,45701822041,Male,0,No,Yes,13,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),78.3,1033.95,No
+202006,45914215356,Male,0,No,No,44,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),68.85,2958.95,No
+202006,45767440164,Female,0,No,No,33,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),79.95,2684.85,No
+202006,45634894669,Male,0,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),55.45,4179.2,No
+202006,45128551966,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,79.9,79.9,Yes
+202006,45782553086,Female,0,No,No,19,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,106.6,1934.45,Yes
+202006,45134710001,Male,0,Yes,No,64,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),102.45,6654.1,No
+202006,45784105437,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),46,84.5,Yes
+202006,45419545701,Female,0,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.25,25.25,No
+202006,45715793361,Male,0,No,Yes,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.75,1124.2,No
+202006,45470921847,Female,0,Yes,Yes,29,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,20,540.05,No
+202006,45250449898,Male,1,Yes,No,23,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,86.8,1975.85,No
+202006,45069944103,Female,0,Yes,No,57,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),58.75,3437.45,No
+202006,45928628477,Male,0,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),45.25,3139.8,No
+202006,45023025762,Male,0,Yes,No,66,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),56.6,3789.2,No
+202006,45204024927,Male,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),84.2,5324.5,No
+202006,45649604992,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80,624.6,No
+202006,45940899415,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.15,268.35,Yes
+202006,45444353241,Female,0,Yes,No,71,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),24.75,1836.9,No
+202006,45646938150,Male,0,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.2,20.2,No
+202006,45074235123,Male,0,Yes,No,4,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.05,179.35,Yes
+202006,45596116981,Female,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),19.35,219.35,No
+202006,45677806331,Male,0,No,No,24,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,One year,Yes,Mailed check,50.6,1288.75,No
+202006,45634101776,Female,0,Yes,Yes,31,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,81.15,2545.75,No
+202006,45223243236,Female,0,Yes,No,1,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,55.2,55.2,Yes
+202006,45481102616,Male,0,No,No,30,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),89.9,2723.15,No
+202006,45094509543,Female,0,Yes,Yes,47,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.3,4107.25,No
+202006,45265153231,Male,0,No,No,54,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),108,5760.65,No
+202006,45331662364,Male,0,No,No,50,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),93.5,4747.5,No
+202006,45893784086,Male,0,No,No,1,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,84.6,84.6,Yes
+202006,45708339563,Female,0,No,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.25,1566.9,No
+202006,45198476058,Female,0,No,No,29,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,25.15,702,No
+202006,45125118857,Male,0,No,No,2,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,54.4,114.1,Yes
+202006,45062106852,Female,0,No,No,10,No,No phone service,DSL,No,No,No,Yes,No,No,Two year,Yes,Mailed check,29.6,299.05,No
+202006,45990324912,Male,0,Yes,No,18,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.15,1305.95,No
+202006,45009459635,Female,1,No,No,,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1120.3,Yes
+202006,45922761760,Male,0,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.75,284.35,No
+202006,45730112114,Female,0,No,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),86.6,6350.5,No
+202006,45661468425,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),109.2,7878.3,No
+202006,45757619506,Female,0,Yes,Yes,41,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),74.7,3187.65,No
+202006,45905888591,Female,1,Yes,No,65,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,94.4,6126.15,No
+202006,45452211428,Female,1,No,No,13,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,54.8,731.3,No
+202006,45022123347,Male,1,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75.35,273.4,No
+202006,45030364396,Male,0,No,No,41,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,65,2531.8,No
+202006,45994750676,Male,1,No,No,15,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.4,1074.3,Yes
+202006,45032249476,Male,0,No,No,1,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,48.55,48.55,Yes
+202006,45095928511,Male,0,No,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,99,4298.45,No
+202006,45407506678,Female,0,Yes,No,51,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,93.5,4619.55,No
+202006,45462948313,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.4,147.15,Yes
+202006,45951404919,Male,1,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,40.2,40.2,Yes
+202006,45328259951,Male,0,No,Yes,32,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),83.7,2633.3,No
+202006,45367544660,Male,0,No,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.85,193.05,No
+202006,45411124396,Female,0,Yes,Yes,67,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,59.55,4103.9,No
+202006,45701716814,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),115.1,7008.15,No
+202006,45665528242,Male,0,No,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),114.35,5791.1,No
+202006,45495905983,Female,0,Yes,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44.6,80.55,Yes
+202006,45504646824,Female,1,Yes,No,29,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,45,1228.65,No
+202006,45727305674,Male,1,No,No,3,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,41.15,132.2,Yes
+202006,45360602179,Male,1,No,No,13,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106.9,1364.3,Yes
+202006,45752954639,Male,1,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,89.85,4925.35,No
+202006,45760524243,Female,0,No,No,31,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),49.85,1520.1,No
+202006,45195019110,Female,0,Yes,No,45,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Mailed check,113.3,5032.25,No
+202006,45012338280,Female,0,Yes,Yes,61,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,88.1,5526.75,No
+202006,45629205999,Male,0,No,No,50,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),24.9,1195.25,No
+202006,45319718654,Female,1,No,No,19,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,105,2007.25,No
+202006,45632314283,Male,0,No,No,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.35,1099.6,Yes
+202006,45701455312,Female,0,Yes,No,71,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.25,1732.95,No
+202006,45438575731,Female,1,No,No,16,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,94.45,1511.2,Yes
+202006,45763331664,Male,0,Yes,No,57,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Electronic check,59.75,3450.15,No
+202006,45636657772,Male,0,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),24.8,24.8,Yes
+202006,45471688178,Male,1,Yes,No,20,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,107.05,2172.05,No
+202006,45594018684,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70.6,70.6,Yes
+202006,45643202722,Male,0,Yes,No,5,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,85.4,401.1,Yes
+202006,45448472556,Female,0,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.05,5624.85,Yes
+202006,45317972821,Male,1,Yes,No,21,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),64.95,1339.8,No
+202006,45864512805,Male,0,No,No,14,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55,771.95,No
+202006,45413035233,Female,0,No,No,5,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),50.55,244.75,No
+202006,45031401599,Female,0,No,No,6,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55.15,322.9,No
+202006,45822934505,Female,0,No,No,10,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,51.2,498.25,No
+202006,45208098345,Female,0,No,Yes,1,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,25.4,25.4,No
+202006,45957720137,Female,0,No,No,68,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,54.45,3687.75,No
+202006,45951269263,Male,0,Yes,Yes,18,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,95.15,1779.95,Yes
+202006,45620244463,Female,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,No,No,One year,Yes,Credit card (automatic),76,1783.6,No
+202006,45380886145,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.35,927.15,No
+202006,45558393417,Male,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,70,Yes
+202006,45348867370,Male,1,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.5,606.55,Yes
+202006,45358085513,Male,0,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44.85,435.4,Yes
+202006,45753426593,Male,1,No,No,24,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.1,1712.7,Yes
+202006,45372752144,Male,0,No,No,35,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Mailed check,61.2,2021.2,No
+202006,45229491245,Male,0,Yes,Yes,23,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,One year,No,Mailed check,86.8,1940.8,No
+202006,45484701049,Female,1,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.35,567.8,No
+202006,45156392753,Female,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.7,220.35,No
+202006,45820330583,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.25,20.25,No
+202006,45655642156,Female,0,Yes,Yes,71,Yes,No,Fiber optic,No,No,Yes,No,No,No,Two year,No,Electronic check,76.05,5436.45,No
+202006,45685125643,Male,1,Yes,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.8,3437.5,No
+202006,45298506625,Male,0,Yes,Yes,40,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,74.55,3015.75,No
+202006,45639049153,Female,0,No,Yes,1,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,73.6,73.6,Yes
+202006,45089523896,Male,0,No,No,23,Yes,No,DSL,No,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),64.9,1509.8,No
+202006,45809822153,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.45,396.1,Yes
+202006,45826612672,Male,0,No,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,90.4,356.65,No
+202006,45818148336,Female,0,Yes,Yes,68,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60.3,4109,No
+202006,45224089074,Male,0,No,Yes,38,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,81.85,3141.7,No
+202006,45124844362,Male,0,Yes,Yes,52,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,24.8,1229.1,No
+202006,45026554324,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.9,2303.35,Yes
+202006,45411524604,Male,0,Yes,Yes,29,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,75.55,2054.4,No
+202006,45316794762,Male,1,Yes,Yes,38,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,101.15,3741.85,No
+202006,45409101534,Male,0,No,Yes,48,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),78.75,3682.45,No
+202006,45109804167,Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),19.25,19.25,No
+202006,45727755375,Female,0,No,No,22,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,89.05,1886.25,No
+202006,45155753410,Female,0,No,No,43,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),115.05,4895.1,No
+202006,45279918425,Female,1,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.35,341.6,No
+202006,45756329663,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.6,415.55,Yes
+202006,4.55E+11,Male,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),110.05,5686.4,No
+202006,45397391324,Male,0,No,No,71,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),19.9,1355.1,No
+202006,45232153234,Female,0,Yes,Yes,38,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),80.3,3058.65,Yes
+202006,45284031483,Male,1,Yes,No,24,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.15,2231.05,Yes
+202006,4.57E+11,Male,0,Yes,No,35,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),91.5,3236.35,No
+202006,45502059004,Female,1,No,No,54,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),82.45,4350.1,Yes
+202006,45988004713,Female,0,Yes,Yes,72,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60,4264,No
+202006,45870525342,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.8,44.8,No
+202006,45710200103,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,No,No,No,No,No,One year,No,Mailed check,48.6,422.3,No
+202006,45862660775,Male,0,No,No,69,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),60.05,4176.7,No
+202006,45498332321,Female,0,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.7,5138.1,No
+202006,45570141916,Female,1,Yes,No,,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,82.9,880.05,No
+202006,45580425693,Female,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.35,139.05,Yes
+202006,45569775326,Female,1,Yes,Yes,28,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,35.9,973.65,No
+202006,45273931347,Female,1,No,No,17,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),82.65,1470.05,No
+202006,4.59E+11,Female,0,Yes,Yes,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,19.85,739.35,No
+202006,45949869332,Female,0,No,No,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,19.2,161.95,No
+202006,45237974627,Male,0,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),94.9,4422.95,No
+202006,45012251865,Female,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.85,511.25,Yes
+202006,45286894525,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,80.6,155.8,Yes
+202006,45432283430,Male,0,Yes,Yes,68,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),75.8,5293.95,Yes
+202006,45668045444,Female,0,No,No,43,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,104.6,4759.85,Yes
+202006,45208895216,Female,0,No,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,88.15,6148.45,No
+202006,45798213528,Female,0,No,No,36,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),94.8,3565.65,No
+202006,45134358642,Male,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103.4,6603,Yes
+202006,45603523004,Female,1,No,No,32,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),54.65,1830.1,No
+202006,45688561513,Female,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),85.75,6223.8,No
+202006,45752087206,Female,0,Yes,Yes,66,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),67.45,4508.65,No
+202006,45963926030,Male,0,No,No,63,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.5,1328.15,No
+202006,45592494716,Female,0,No,Yes,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.25,865,No
+202006,45002191373,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72.1,72.1,No
+202006,45203474834,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90.4,168.2,Yes
+202006,45896694956,Female,0,Yes,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.45,1303.5,No
+202006,45624355768,Female,0,No,No,23,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.95,996.85,No
+202006,45465442137,Female,1,Yes,No,64,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),97,6430.9,No
+202006,45051382765,Male,0,Yes,Yes,37,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),62.8,2278.75,No
+202006,45516063054,Male,0,No,Yes,17,Yes,No,DSL,No,No,No,No,No,No,One year,No,Mailed check,44.6,681.4,No
+202006,45411545819,Female,1,No,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.15,574.35,No
+202006,45021940565,Male,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),84.8,371.9,Yes
+202006,45062399867,Female,1,No,No,21,No,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,41.9,840.1,Yes
+202006,45457241374,Female,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),80.25,846,Yes
+202006,45335147349,Female,1,No,No,16,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,54.1,889,No
+202006,45898454222,Male,0,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,105.25,6823.4,No
+202006,45905739235,Male,1,Yes,No,27,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),30.75,805.1,Yes
+202006,45983307683,Male,0,Yes,Yes,42,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Electronic check,97.1,4016.75,No
+202006,45929404963,Male,0,No,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.2,83.75,No
+202006,45522940642,Female,0,No,No,41,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),98.8,3959.15,No
+202006,45010466341,Male,0,Yes,No,58,Yes,No,DSL,No,No,Yes,No,No,No,One year,No,Credit card (automatic),50.3,2878.55,No
+202006,45517623035,Female,0,No,No,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,20.55,945.7,No
+202006,45358318134,Male,0,No,No,18,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),75.9,1373.05,No
+202006,45101049167,Male,0,No,No,5,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),96.5,492.55,Yes
+202006,45906927562,Male,0,Yes,No,23,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59.95,1406,No
+202006,45730258386,Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.15,19.15,No
+202006,45957154521,Male,0,Yes,No,71,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),98.65,6962.85,No
+202006,45352060731,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),112.6,8126.65,No
+202006,45656318583,Male,0,Yes,Yes,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.6,690.25,No
+202006,45025972598,Male,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.65,181.5,Yes
+202006,45612256114,Male,0,No,Yes,24,No,No phone service,DSL,Yes,No,No,Yes,No,No,Two year,No,Mailed check,35.75,830.8,No
+202006,45280554067,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),99.75,5608.4,No
+202006,45686237632,Male,0,No,No,37,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),96.1,3646.8,No
+202006,45715633205,Female,0,No,No,43,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),85.1,3662.25,No
+202006,45615884635,Male,0,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.35,25.35,No
+202006,45960128365,Female,0,Yes,No,25,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104.95,2566.5,Yes
+202006,45286393748,Female,0,No,No,61,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,89.65,5308.7,No
+202006,45568633121,Male,0,No,No,17,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Electronic check,86.75,1410.25,No
+202006,45565138817,Female,0,Yes,No,41,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),86.2,3339.05,No
+202006,45690549794,Male,0,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,50.65,50.65,Yes
+202006,45820440321,Male,1,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),64.8,4732.35,No
+202006,45516756633,Male,0,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),90.85,90.85,Yes
+202006,45658395176,Male,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),108.1,5067.45,No
+202006,45489503298,Male,1,Yes,No,,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.95,214.75,Yes
+202006,45053324216,Female,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85.45,4874.7,Yes
+202006,45170862251,Female,0,No,No,42,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,54.75,2348.45,No
+202006,45878221661,Male,0,No,No,44,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,90.4,4063,No
+202006,45552202235,Male,0,No,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44,44,No
+202006,45359731800,Female,0,No,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.6,2595.25,No
+202006,45977448416,Male,1,Yes,No,27,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),84.8,2309.55,No
+202006,45022482224,Female,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.3,89.3,No
+202006,45996710869,Female,0,No,No,19,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.9,367.55,No
+202006,45395140319,Female,1,Yes,No,42,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.05,3944.5,No
+202006,45297735293,Female,0,No,No,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90.05,5965.95,No
+202006,45017763210,Male,1,Yes,No,33,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),109.9,3694.7,No
+202006,45659935244,Female,0,No,No,34,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),73.95,2524.45,Yes
+202006,45251958750,Male,1,No,No,33,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,54.6,1803.7,No
+202006,45587673424,Female,0,Yes,Yes,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.05,415.1,No
+202006,45227713943,Female,0,No,No,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.75,624.15,No
+202006,45944200242,Female,0,No,No,,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.05,237.7,No
+202006,45097968621,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.45,7007.6,Yes
+202006,45306791303,Female,0,Yes,No,68,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),55.9,3848.8,No
+202006,45549576982,Male,0,No,No,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,19.7,419.4,No
+202006,45760626884,Male,0,No,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),19.8,1468.75,No
+202006,4.55E+11,Male,0,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),95.4,5812,No
+202006,45011112277,Male,1,Yes,Yes,32,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,93.95,2861.45,No
+202006,45480018519,Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.9,19.9,Yes
+202006,45798938702,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.6,19.6,Yes
+202006,45033474495,Male,1,No,No,3,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81.35,233.7,Yes
+202006,45416343011,Female,0,Yes,No,46,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),24.45,1066.15,No
+202006,45523315566,Female,0,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.95,2149.05,No
+202006,45597350746,Male,0,No,No,51,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,87.35,4473,No
+202006,45199642369,Female,1,Yes,No,48,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70.65,3545.05,No
+202006,45791613362,Female,0,Yes,Yes,16,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),73.25,1195.75,No
+202006,45468675683,Male,0,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),98.7,6858.9,No
+202006,4.55E+11,Female,0,Yes,Yes,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,24.8,1024.7,No
+202006,45057891136,Female,0,Yes,Yes,22,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,83.3,1845.9,Yes
+202006,45556445375,Female,1,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.3,75.3,Yes
+202006,45223361731,Female,0,Yes,Yes,5,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,24.3,132.25,No
+202006,45560594767,Female,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.85,515.45,No
+202006,45766350570,Male,0,No,Yes,29,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),100.55,2830.45,No
+202006,45393502855,Male,0,Yes,Yes,44,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,25.7,1110.5,No
+202006,45811121149,Female,0,No,No,10,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),40.7,449.3,No
+202006,45205599699,Female,1,Yes,No,55,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),51.65,2838.55,No
+202006,45280632409,Male,1,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105.1,5376.4,No
+202006,45873441905,Female,0,Yes,Yes,10,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85.95,858.6,No
+202006,45436064872,Male,0,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.6,1395.05,No
+202006,45615254191,Female,0,Yes,No,68,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),58.25,3975.7,No
+202006,45906357064,Female,0,Yes,Yes,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.4,1182.55,Yes
+202006,45778181731,Female,0,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),65.2,4784.45,No
+202006,45218161593,Male,0,No,No,2,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,53.45,119.5,No
+202006,45295725285,Male,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),45.4,518.9,Yes
+202006,45604840383,Male,0,Yes,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,19.75,899.45,No
+202006,45232092132,Female,0,No,No,26,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),44.45,1183.8,No
+202006,45498068133,Male,0,Yes,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.85,720.05,No
+202006,45437616189,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),114.05,8468.2,No
+202006,45588612716,Male,0,Yes,No,35,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89.85,3161.2,No
+202006,45357713163,Male,0,No,No,1,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,55.05,55.05,No
+202006,45077122321,Female,0,Yes,Yes,16,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,112.95,1882.55,No
+202006,45562881961,Female,1,No,No,49,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),101.55,5070.4,No
+202006,45020602223,Female,0,Yes,No,54,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,114.65,6049.5,No
+202006,45293760868,Female,0,No,Yes,18,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Electronic check,64.8,1166.7,No
+202006,45191063303,Female,0,Yes,No,36,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,80.4,2937.65,No
+202006,45775236939,Female,0,No,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.9,6396.45,Yes
+202006,45411066565,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,69.55,69.55,Yes
+202006,45073253753,Female,0,Yes,Yes,52,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),25.05,1270.25,No
+202006,45516839230,Male,0,Yes,Yes,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.75,759.55,No
+202006,45109059528,Male,0,Yes,Yes,72,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),105.5,7611.55,No
+202006,45859262037,Female,0,No,No,64,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,24.7,1642.75,No
+202006,45576028183,Female,1,No,No,22,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,69.75,1545.4,No
+202006,45884775557,Male,0,Yes,No,60,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),60.2,3582.4,No
+202006,45025620810,Female,0,Yes,Yes,28,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,81.05,2227.1,Yes
+202006,45478563962,Female,0,Yes,No,61,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,24.4,1417.9,No
+202006,45831344591,Female,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.15,2494.65,No
+202006,45514936560,Male,0,Yes,Yes,28,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),92.9,2768.35,No
+202006,45094215293,Female,0,Yes,Yes,30,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),80.8,2369.3,No
+202006,45423732933,Male,0,Yes,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20,38,No
+202006,45145215738,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.1,75.1,No
+202006,45471963994,Male,0,No,Yes,6,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.65,100.9,No
+202006,45661412576,Female,0,Yes,No,24,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),69.45,1614.05,No
+202006,45088001107,Male,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,101.15,385.9,Yes
+202006,45381112425,Male,0,No,No,7,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.8,673.25,Yes
+202006,45148021371,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116.05,8404.9,No
+202006,45299631616,Male,0,No,No,70,No,No phone service,DSL,No,No,No,Yes,No,Yes,Two year,Yes,Mailed check,40.05,2799.75,No
+202006,45907613491,Male,1,Yes,No,64,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,102.1,6538.45,No
+202006,45596837915,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,89.7,6588.95,No
+202006,45889681538,Female,0,No,Yes,44,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.9,868.1,No
+202006,45464068459,Female,0,Yes,Yes,13,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,55.95,734.35,Yes
+202006,45493391626,Female,1,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.65,330.6,No
+202006,45358351162,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55,55,Yes
+202006,45130423365,Male,0,Yes,No,9,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,70.05,564.4,No
+202006,45410461869,Male,0,Yes,No,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,53.6,1315.35,No
+202006,45939916220,Female,0,Yes,Yes,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.7,74.7,Yes
+202006,45235913729,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80.25,1861.5,Yes
+202006,45378044795,Male,1,Yes,Yes,35,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,76.05,2747.2,No
+202006,45443154397,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,75.7,554.05,No
+202006,45030601525,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,96.1,453.4,Yes
+202006,45622782623,Female,0,No,Yes,15,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69,994.8,Yes
+202006,45048627338,Male,0,Yes,Yes,,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.65,225.75,No
+202006,45044725347,Female,0,Yes,No,48,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),45.3,2145,Yes
+202006,45461299180,Female,1,No,No,20,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,81.45,1671.6,No
+202006,45516837731,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),108.5,8003.8,No
+202006,45594939115,Female,0,Yes,Yes,8,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,83.55,680.05,Yes
+202006,45797182139,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Two year,Yes,Credit card (automatic),84.5,6130.85,No
+202006,45909415681,Female,0,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.15,1415,No
+202006,45364906674,Male,0,No,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),88.6,6201.95,No
+202006,45447221479,Female,0,Yes,Yes,0,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),52.55,,No
+202006,45837206369,Male,0,No,Yes,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.35,74.35,Yes
+202006,45355230346,Male,0,Yes,Yes,63,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),104.8,6597.25,No
+202006,45677849498,Female,0,No,No,2,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,59,114.15,No
+202006,45038855653,Female,0,Yes,No,2,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.4,139.4,Yes
+202006,45575655895,Male,1,Yes,No,61,Yes,Yes,DSL,No,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),64.05,3902.6,No
+202006,45657906936,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.4,20.4,No
+202006,45820550382,Male,0,No,No,22,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),43.75,903.6,Yes
+202006,45413429323,Male,0,Yes,No,28,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,60.9,1785.65,No
+202006,45050596552,Female,0,Yes,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.8,1397.65,No
+202006,4.56E+11,Female,1,No,No,5,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,28.45,131.05,Yes
+202006,45778341741,Female,0,No,No,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),99.7,1238.45,Yes
+202006,45437443697,Male,0,No,No,34,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),116.25,3899.05,No
+202006,45451333493,Female,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,Yes,Credit card (automatic),80.7,5676,No
+202006,45395788238,Female,0,Yes,Yes,70,Yes,Yes,DSL,Yes,No,No,No,No,Yes,One year,No,Bank transfer (automatic),65.2,4543.15,No
+202006,45780335335,Female,0,Yes,Yes,52,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),84.05,4326.8,No
+202006,45573645013,Male,0,No,Yes,69,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),79.45,5502.55,No
+202006,45560935294,Female,1,No,No,20,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,94.1,1782.4,Churn
+202006,45898160721,Male,0,No,Yes,,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,78,851.8,No
+202006,45721881761,Male,0,Yes,No,2,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,94.2,167.5,Churn
+202006,45463678014,Female,0,Yes,Yes,6,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,80.5,502.85,Churn
+202006,45113523533,Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.85,19.85,No
+202006,45433236555,Male,1,Yes,Yes,20,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),94.3,1818.3,No
+202006,45853596604,Male,0,No,No,61,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106.45,6300.15,No
+202006,45595611400,Female,1,Yes,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.35,334.8,Churn
+202006,45867784555,Female,0,No,No,56,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105.45,5916.95,No
+202006,45247538556,Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),95,2852.4,No
+202006,45941278553,Male,0,No,No,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),104.8,4131.95,Churn
+202006,45348212611,Female,0,No,No,28,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,54.3,1546.3,No
+202006,45670523583,Female,1,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.05,302.6,No
+202006,45025755973,Female,1,Yes,No,27,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.2,1929.35,Churn
+202006,45753177835,Male,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),20.05,265.45,No
+202006,45517490631,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,105.4,6989.45,No
+202006,45410934824,Male,1,Yes,No,29,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,51.6,1442,No
+202006,45091332934,Male,0,Yes,Yes,55,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),85.5,4713.4,No
+202006,45682564661,Female,0,No,No,23,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),75.6,1758.6,Churn
+202006,45839731015,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.05,3480,Churn
+202006,45075052196,Male,0,No,No,52,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Electronic check,91.25,4738.3,No
+202006,45860639762,Male,1,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),115.75,8399.15,No
+202006,45357146468,Male,0,Yes,Yes,58,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),94.7,5430.35,No
+202006,45760174441,Male,0,Yes,Yes,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.6,686.95,No
+202006,45035652313,Female,1,No,No,56,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),99.9,5706.3,No
+202006,45806749543,Female,0,Yes,Yes,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),,490.65,No
+202006,45140374166,Male,0,Yes,Yes,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.05,1360.25,No
+202006,45423430451,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.95,174.45,No
+202006,45129717486,Male,1,Yes,Yes,68,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),107.15,7379.8,No
+202006,45928295771,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,85,Churn
+202006,45534831732,Male,0,No,No,12,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.55,1021.75,No
+202006,45062180230,Female,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),81.55,5029.05,No
+202006,45584471010,Female,0,Yes,Yes,33,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,58.45,1955.4,No
+202006,45890591566,Female,0,Yes,No,69,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),95.65,6744.2,No
+202006,45539435905,Female,0,Yes,Yes,60,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),80.6,4946.7,No
+202006,45685974397,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),113.1,8248.5,No
+202006,45278226512,Female,0,No,No,,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,58.95,601.6,No
+202006,45286691203,Wanita,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.55,19.55,No
+202006,45134206419,Male,0,No,No,10,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),86.05,834.1,Yes
+202006,4.53E+11,Male,0,No,No,13,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),45.55,597,Yes
+202006,45712915045,Male,0,Yes,Yes,34,Yes,No,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Bank transfer (automatic),78.95,2647.2,No
+202006,45698690483,Male,0,Yes,Yes,39,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,86.3,3266,Yes
+202006,45256066385,Wanita,0,No,No,65,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),105.05,6744.25,No
+202006,45467637651,Male,1,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),101.9,5265.5,No
+202006,45813851244,Male,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.75,311.6,No
+202006,45358084396,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.3,7966.9,No
+202006,45135284912,Wanita,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115.6,8220.4,No
+202006,45207566568,Male,0,Yes,Yes,55,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.35,1153.25,No
+202006,45198265204,Wanita,0,Yes,Yes,23,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.6,514.75,No
+202006,45530171664,Male,0,No,No,32,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.35,2596.15,Yes
+202006,45579111064,Wanita,0,Yes,Yes,56,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),68.75,3808,No
+202006,45265412162,Wanita,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),19.9,19.9,No
+202006,45115484225,Male,0,No,No,38,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,No,Mailed check,70.6,2708.2,No
+202006,45250132205,Male,0,No,No,,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.2,760.05,No
+202006,45371661964,Male,0,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,49.3,49.3,No
+202006,45681512767,Male,0,Yes,No,56,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,107.25,6033.3,No
+202006,45734355256,Male,0,Yes,No,3,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,23.6,89.05,No
+202006,45370196368,Male,0,Yes,Yes,7,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),69.7,516.15,No
+202006,45610329142,Male,0,Yes,Yes,59,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),99.5,5861.75,No
+202006,4.57E+11,Male,0,No,No,7,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),64.3,445.95,No
+202006,45584645715,Male,0,Yes,Yes,71,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),70.85,4973.4,No
+202006,45696779781,Male,0,Yes,Yes,15,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,101.9,1667.25,No
+202006,45578186586,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Credit card (automatic),73.5,5357.75,No
+202006,45093941616,Wanita,0,No,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.25,3527.6,Yes
+202006,45030891751,Wanita,0,No,No,,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),40.4,422.6,No
+202006,45729329341,Wanita,0,Yes,Yes,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),19.25,1103.25,No
+202006,45702523245,Male,1,No,No,47,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),59.6,2754,No
+202006,45575604500,Wanita,0,No,No,,Yes,No,DSL,No,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),64.9,697.25,No
+202006,45471064695,Male,0,Yes,No,56,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),100.3,5614.45,Yes
+202006,45603085863,Wanita,1,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110.85,3204.4,No
+202006,45954829701,Male,0,Yes,No,61,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,81.05,4747.65,No
+202006,45515020498,Male,0,Yes,Yes,31,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Bank transfer (automatic),98.05,3082.1,No
+202006,45827081916,Male,0,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.5,597.9,No
+202006,45652248234,Male,1,Yes,No,35,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,94.55,3365.4,No
+202006,45264024351,Male,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.65,38.8,No
+202006,45121811665,Wanita,0,Yes,Yes,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19,233.55,Yes
+202006,45362768121,Wanita,0,No,No,1,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,75.3,75.3,Yes
+202006,45286503802,Wanita,1,No,No,4,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.2,346.2,Yes
+202006,45142323627,Female,0,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19,19,No
+202006,45239349119,Female,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20,61.7,No
+202006,45519252751,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.7,85.7,Yes
+202006,45456814428,Male,0,No,No,52,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card (automatic),63.25,3342.45,No
+202006,45875293759,Male,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.1,85.1,No
+202006,45074221671,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,99.15,7422.1,No
+202006,45079521676,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90.4,6668.05,No
+202006,45061952468,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),111.9,8071.05,No
+202006,45551294559,Male,0,Yes,Yes,46,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,24.9,1174.8,No
+202006,45045996580,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),83.5,5435,No
+202006,45021527179,Male,0,No,No,30,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),84.3,2438.6,No
+202006,45924451163,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.6,45.6,No
+202006,45071994682,Female,0,No,No,12,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,61.65,713.75,Yes
+202006,45820856305,Male,0,No,No,16,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,54.85,916.15,No
+202006,45517239763,Male,0,No,No,4,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,65.55,237.2,No
+202006,45171083369,Male,0,Yes,No,51,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Credit card (automatic),90.35,4614.55,No
+202006,45037469631,Male,0,Yes,No,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),20.4,1414.45,No
+202006,45583996415,Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),74.55,1170.5,No
+202006,45517353332,Male,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.95,47.7,No
+202006,45109614863,Female,0,Yes,Yes,66,Yes,Yes,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),74.25,4859.25,No
+202006,45200133662,Male,0,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,108.65,4903.2,No
+202006,45273170847,Female,0,No,No,32,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),109.55,3608,No
+202006,45472325797,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86.65,6094.25,No
+202006,45651641725,Male,0,Yes,Yes,38,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),81,3084.9,No
+202006,45867251662,Male,0,No,Yes,51,Yes,No,DSL,No,No,No,Yes,No,No,One year,No,Credit card (automatic),47.85,2356.75,No
+202006,45820743812,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),114.55,8306.05,No
+202006,45341994004,Female,1,Yes,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),105.25,6786.4,Yes
+202006,45654336531,Male,0,Yes,Yes,9,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.95,248.95,Yes
+202006,45476553664,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Mailed check,65,663.05,Yes
+202006,45280450741,Male,0,No,Yes,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.55,1357.1,No
+202006,45668918801,Female,1,No,No,44,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),109.8,4860.35,No
+202006,45713879898,Male,0,No,No,50,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),69.5,3418.2,No
+202006,45939659622,Female,0,No,No,15,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,48.85,631.4,No
+202006,45646415338,Male,0,No,No,8,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),25.25,186.3,No
+202006,45713430644,Female,1,No,No,66,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),102.85,6976.75,No
+202006,45524031540,Female,0,No,No,57,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),87.55,4884.85,No
+202006,45405999521,Female,0,No,No,7,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),78.55,522.95,No
+202006,45488101754,Male,1,Yes,Yes,10,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),34.55,362.6,No
+202006,45051663830,Female,0,No,No,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,92.05,5755.8,No
+202006,4.55E+11,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,85.05,3355.65,No
+202006,45514881698,Female,0,No,No,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.7,406.95,No
+202006,45100998341,Female,0,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20,137.6,Yes
+202006,45300333466,Female,0,Yes,No,25,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,95.15,2395.7,No
+202006,45501692587,Male,0,Yes,No,23,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,84.25,1968.1,No
+202006,45679763085,Female,1,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),104.6,6819.45,No
+202006,45246940973,Female,1,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,111.65,7943.45,No
+202006,45455447598,Male,1,Yes,No,49,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Credit card (automatic),90.05,4547.25,Yes
+202006,45509921923,Male,1,Yes,Yes,43,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),110.75,4687.9,Yes
+202006,45993117851,Female,0,Yes,No,46,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),55,2473.95,No
+202006,45177512017,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89.85,6562.9,No
+202006,45766519764,Male,0,No,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.35,176.3,No
+202006,45941106771,Female,0,No,No,40,No,No phone service,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),54.55,2236.2,No
+202006,45720783842,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.5,6985.65,Yes
+202006,45795432264,Male,0,No,No,31,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),99.45,3109.9,No
+202006,45207744801,Female,0,Yes,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),70.9,4911.35,No
+202006,45491358469,Male,1,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),104.55,5794.65,Yes
+202006,45019595936,Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.25,855.3,Yes
+202006,45957425934,Male,0,Yes,Yes,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.4,1620.2,No
+202006,45458003806,Female,0,Yes,Yes,43,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,56.15,2499.3,Yes
+202006,45097050275,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.55,89.55,Yes
+202006,45490831314,Female,1,No,No,49,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),89.85,4287.2,No
+202006,45840412762,Female,0,Yes,Yes,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,25.25,394.85,No
+202006,45162658333,Male,1,Yes,No,20,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.55,1899.65,Yes
+202006,45088780718,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.7,45.7,Yes
+202006,45239196256,Male,0,Yes,Yes,50,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,One year,Yes,Electronic check,69.65,3442.15,No
+202006,45564464353,Female,1,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,89.5,161.5,Yes
+202006,45350972776,Male,1,No,No,24,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),70,1732.6,No
+202006,45957614235,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.55,222.3,Yes
+202006,45202421914,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,74.6,74.6,Yes
+202006,45584525592,Male,0,Yes,Yes,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.1,655.3,No
+202006,45114061157,Female,0,No,No,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,24.8,475.25,No
+202006,45416013002,Female,1,No,No,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,19.65,164.3,Yes
+202006,45518394307,Male,0,No,No,10,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.1,865.1,No
+202006,45810064038,Male,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88.85,6132.7,No
+202006,45783821565,Male,0,Yes,No,45,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),78.8,3597.5,No
+202006,45446403524,Male,0,Yes,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.85,35.9,Yes
+202006,45208501714,Male,0,Yes,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.35,697.65,No
+202006,45565014649,Female,0,No,No,4,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24.25,96.05,Yes
+202006,45809521421,Female,0,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.25,428.7,No
+202006,45303051922,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.05,20.05,No
+202006,45956562137,Male,0,Yes,Yes,65,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Two year,Yes,Mailed check,69.55,4459.15,No
+202006,45875557141,Female,0,Yes,Yes,57,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.5,1167.6,No
+202006,45280015733,Female,0,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,74.75,238.1,No
+202006,45753872832,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.65,145.15,Yes
+202006,45553380600,Male,0,No,No,49,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),30.2,1453.1,No
+202006,45385931350,Female,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.65,191.05,Yes
+202006,45021408662,Female,0,Yes,No,70,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),57.8,4039.3,No
+202006,45564238470,Female,0,Yes,Yes,53,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),19.85,1039.45,No
+202006,45308861421,Male,0,Yes,Yes,53,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.55,1336.1,No
+202006,45327684657,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75.05,75.05,Yes
+202006,4.59E+11,Male,0,No,No,22,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),24.85,493.4,No
+202006,45082389340,Male,1,No,No,52,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,49.15,2550.9,Yes
+202006,45372952812,Male,1,No,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,110.35,7246.15,No
+202006,45232411245,Female,0,No,No,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),24.55,1203.95,No
+202006,45082271116,Female,0,No,No,2,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,34.7,62.25,Yes
+202006,45576096055,Male,0,No,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,107.95,313.6,No
+202006,45282662899,Male,0,Yes,No,45,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),81.4,3775.85,No
+202006,45144862145,Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,80,80,Yes
+202006,45750192647,Female,0,Yes,Yes,61,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),73.8,4616.05,No
+202006,45495708598,Male,0,No,No,3,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),64.4,195.65,No
+202006,45725120274,Female,1,No,No,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),103.75,4188.4,No
+202006,45804034806,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71.1,71.1,No
+202006,45153682926,Female,0,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,49.9,49.9,No
+202006,45531366327,Male,0,No,No,51,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),24.6,1266.4,No
+202006,45006741222,Male,1,No,No,2,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,49.25,91.1,Yes
+202006,45094661403,Male,0,No,No,52,No,No phone service,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,30.1,1623.4,No
+202006,45507641333,Male,0,No,No,51,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),83.4,4149.45,No
+202006,45826235772,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.45,20.45,No
+202006,45666305375,Male,0,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),75.25,2344.5,No
+202006,45962070851,Male,0,No,Yes,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.55,1013.05,No
+202006,45227644115,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.1,270.7,Yes
+202006,45268215186,Female,1,No,No,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,20.05,417,No
+202006,45248005594,Female,0,Yes,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.65,20.65,No
+202006,45007835380,Male,0,Yes,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85.15,6316.2,No
+202006,45589646622,Laki-Laki,0,Yes,Yes,3,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,50.15,168.15,Yes
+202006,45997884394,Laki-Laki,1,Yes,Yes,47,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),84.95,4018.05,No
+202006,45833879648,Laki-Laki,0,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),66.5,4811.6,No
+202006,45152524250,Laki-Laki,0,Yes,Yes,66,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),63.3,4189.7,No
+202006,45945008066,Laki-Laki,0,No,No,35,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,83.15,2848.45,No
+202006,45176671439,Laki-Laki,0,No,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.9,2516.2,No
+202006,45694222646,Female,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.55,33.6,No
+202006,45145602372,Male,0,No,No,4,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,49.25,208.45,No
+202006,45713312437,Female,0,No,No,25,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),79.85,2015.35,Yes
+202006,45759654222,Female,0,No,No,65,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,59.6,3739.8,No
+202006,45832960313,Male,1,No,No,27,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104.65,2964,No
+202006,45301420193,Male,0,Yes,No,29,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),75.3,2263.4,No
+202006,45334740555,Male,0,Yes,Yes,29,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),80.1,2211.8,No
+202006,45102976254,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.55,19.55,Yes
+202006,45792943231,Female,0,Yes,No,20,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,81,1683.7,No
+202006,45966101251,Female,0,No,No,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.7,1519,No
+202006,45543314785,Female,0,No,Yes,14,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,86,1164.05,No
+202006,45431216834,Male,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.4,1710.9,No
+202006,45557506957,Male,0,No,No,46,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89.15,4245.55,No
+202006,45011497122,Female,0,Yes,No,71,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),58.25,4145.9,No
+202006,45994415323,Male,0,No,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),85.65,2664.3,No
+202006,45185318117,Female,0,No,No,26,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),50.35,1277.5,No
+202006,45695253422,Male,1,Yes,No,68,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),80.35,5589.3,No
+202006,45469726696,Male,0,Yes,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.2,34.75,No
+202006,45843417577,Male,0,Yes,Yes,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.55,1305.95,No
+202006,45495249575,Female,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.95,381.3,Yes
+202006,45158917021,Male,0,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.35,141.5,Yes
+202006,45524498698,Male,1,Yes,No,33,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.5,3105.55,Yes
+202006,45654943612,Male,1,Yes,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,,204.55,No
+202006,45495081705,Female,0,No,No,22,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,26.25,605.9,No
+202006,45678652278,Female,0,Yes,Yes,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.85,356.1,No
+202006,45268459255,Female,1,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Credit card (automatic),91.7,2758.15,Yes
+202006,45275303331,Male,0,No,No,65,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),74.2,4805.65,No
+202006,45643970631,Female,0,No,No,45,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,87.25,3941.7,Yes
+202006,45662145219,Male,0,No,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.35,92.75,No
+202006,45121602163,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75.5,1901.05,No
+202006,45756478312,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),79.05,5730.7,No
+202006,45117345547,Female,0,Yes,No,27,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),90.15,2423.4,No
+202006,45759558342,Male,0,Yes,Yes,32,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),50.6,1653.45,No
+202006,45664755430,Female,0,No,No,30,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),110.45,3327.05,No
+202006,45252146658,Male,0,Yes,No,70,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),101,7085.5,No
+202006,45130701662,Male,1,No,No,42,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),79.35,3344.1,No
+202006,45750339571,Female,1,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),89.85,6697.35,No
+202006,45438138743,Female,0,No,No,47,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Mailed check,65,2879.9,No
+202006,45692308636,Female,0,No,No,2,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,80.45,137.1,No
+202006,45513821140,Male,0,No,No,10,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,98.55,1008.55,Yes
+202006,45401866442,Female,0,Yes,Yes,61,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,24.1,1551.6,No
+202006,45163560633,Female,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44.05,202.15,No
+202006,45249910461,Female,1,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),110.8,7882.25,No
+202006,45691952272,Male,1,Yes,Iya,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.95,8196.4,No
+202006,45396688351,Female,1,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,75.05,202.9,No
+202006,45642502041,Male,0,Yes,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.25,855.1,No
+202006,45840597763,Female,0,No,No,63,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),90.05,5817,No
+202006,45822491161,Female,0,No,No,27,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,56.7,1652.95,No
+202006,45947727279,Male,0,Yes,Iya,70,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),80.15,5600.15,No
+202006,45141089338,Male,0,Yes,Iya,7,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),71.35,515.75,No
+202006,45311535354,Male,0,No,Iya,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.25,,No
+202006,45013991607,Female,0,Yes,No,2,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,90.35,190.5,No
+202006,45668312305,Male,1,No,No,20,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.55,1842.8,Yes
+202006,45573042499,Male,0,No,No,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.7,1253.8,No
+202006,45003064366,Female,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.85,57.2,No
+202006,45218922552,Female,0,No,Iya,15,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),85.9,1269.55,Yes
+202006,45568460148,Female,0,Yes,Iya,72,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),90.35,6563.4,No
+202006,45401376344,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.8,20.8,No
+202006,45189497697,Female,0,No,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,89.25,1907.85,Yes
+202006,45737965145,Male,0,Yes,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,208.85,Yes
+202006,45126645469,Female,0,Yes,Iya,72,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),66.85,4758.8,No
+202006,45796966527,Male,0,Yes,Iya,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.9,1292.6,No
+202006,45471848931,Female,0,No,No,,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,35.8,363.15,No
+202006,45517522432,Male,0,No,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,78.85,1600.25,No
+202006,45781753041,Male,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.4,275.7,No
+202006,45872891028,Male,0,No,No,41,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,74.25,3089.1,No
+202006,45313744779,Male,0,Yes,No,17,Yes,No,DSL,Yes,Yes,No,No,No,Yes,One year,No,Mailed check,64.8,1175.6,No
+202006,45770645411,Male,0,No,No,,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),20.45,237.3,No
+202006,45023686291,Male,0,No,No,15,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.35,1444.65,Yes
+202006,45390017685,Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.9,19.9,Yes
+202006,45584265356,Female,0,Yes,No,5,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,88.9,454.15,Yes
+202006,45203730666,Male,0,Yes,No,33,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,95.8,3036.75,Yes
+202006,45882382622,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),110.65,8065.65,No
+202006,45950597692,Female,0,Yes,Iya,3,No,No phone service,DSL,No,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,40.3,92.5,No
+202006,45731453544,Male,0,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,82,184.65,Yes
+202006,45375831572,Female,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),107,6152.3,No
+202006,45032238786,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.35,89.5,Yes
+202006,45567636244,Male,0,Yes,Iya,71,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),73.35,5154.5,No
+202006,45752116812,Female,0,Yes,Iya,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44.8,220.45,No
+202006,45028594824,Male,0,Yes,Iya,27,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),54.75,1510.3,No
+202006,45467841755,Female,0,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,52.2,52.2,Yes
+202006,45512534496,Male,0,No,Iya,63,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),40.6,2588.95,No
+202006,45069196272,Female,1,No,No,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,110,4874.8,Yes
+202006,45499220045,Male,0,Yes,Iya,72,Yes,Yes,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),55.3,3983.6,No
+202006,45220256035,Female,0,Yes,No,34,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),60.85,2003.6,No
+202006,45081024812,Female,0,Yes,Iya,24,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,One year,No,Electronic check,78.4,1832.4,No
+202006,45022926016,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),69.65,4908.25,No
+202006,45713157541,Female,0,Yes,Iya,60,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),59.85,3590.2,No
+202006,45344258833,Male,0,No,No,68,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),76.9,5023,No
+202006,45572631441,Female,0,Yes,Iya,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,19.85,146.6,No
+202006,45987152541,Female,0,No,Iya,34,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),67.65,2339.3,No
+202006,45425771594,Female,0,No,No,6,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),45,298.7,No
+202006,45517323571,Male,0,Yes,No,2,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,64.2,143.65,No
+202006,45204052320,Male,0,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card (automatic),81.7,2548.65,No
+202006,45628658151,Female,0,Yes,Iya,20,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),25.55,507.4,No
+202006,45380738308,Female,0,Yes,Iya,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,20,20,No
+202006,45300902366,Male,0,No,No,62,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,96.75,6125.4,Yes
+202006,45567187826,Female,1,Yes,No,70,Yes,Yes,Fiber optic,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),75.65,5411.4,No
+202006,45145071238,Female,0,No,No,10,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,98.5,1058.25,Yes
+202006,45885913056,Male,0,Yes,Yes,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,23.8,903.8,No
+202006,45317411319,Female,0,Yes,No,46,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),64.2,3009.5,No
+202006,45313821411,Male,0,No,No,6,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.35,489.45,Yes
+202006,45992660847,Female,0,Yes,Yes,72,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),76.8,5468.45,No
+202006,45738246006,Male,0,No,No,18,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),55.2,1058.1,No
+202006,45279844235,Male,0,Yes,No,71,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),108.55,7616,No
+202006,45428940412,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.3,4113.1,Yes
+202006,45182007151,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.55,69.55,Yes
+202006,45223901212,Male,0,No,No,58,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),103.25,6017.65,Yes
+202006,4.55E+11,Male,0,No,No,70,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104,7250.15,Yes
+202006,45809804326,Female,0,Yes,No,42,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,25.25,1108.2,No
+202006,45355171572,Male,0,Yes,Yes,34,No,No phone service,DSL,Yes,No,No,No,No,No,One year,No,Bank transfer (automatic),30.4,938.65,No
+202006,45478541833,Male,1,No,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.05,94.15,No
+202006,45319641325,Female,0,No,No,25,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,84.6,2088.05,No
+202006,45627544615,Female,0,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,86.2,178.7,Yes
+202006,45003698350,Female,0,Yes,Yes,55,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),103.7,5656.75,No
+202006,45011506580,Male,0,Yes,No,21,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,111.2,2317.1,Yes
+202006,45417857354,Male,0,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),88,5986.45,No
+202006,45422009470,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,106.35,6751.35,No
+202006,45531841461,Male,0,Yes,Yes,43,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),79.15,3566.6,No
+202006,45797505328,Male,0,No,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,103.1,4889.3,No
+202006,45029571162,Male,0,No,No,5,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),63.95,318.1,No
+202006,45433529309,Female,0,No,No,62,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.8,1563.95,No
+202006,45231174367,Female,0,Yes,Yes,16,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89.45,1430.25,Yes
+202006,45364318366,Male,1,Yes,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.6,644.35,Yes
+202006,45914608953,Female,0,Yes,Yes,14,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,25.55,372.45,No
+202006,45310452371,Male,0,Yes,Yes,60,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,One year,No,Electronic check,90.95,5453.4,Yes
+202006,45533799215,Male,0,Yes,Yes,34,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,44.85,1442.6,No
+202006,45910122699,Female,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,108.55,5610.7,Yes
+202006,45965012657,Male,0,Yes,Yes,38,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.05,963.95,No
+202006,45348751810,Female,0,Yes,Yes,70,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),74.1,5222.3,No
+202006,45267207566,Female,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,88.8,3340.55,No
+202006,45923150413,Female,1,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.85,292.8,Yes
+202006,45425021855,Male,1,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,93.25,5774.55,No
+202006,45818423569,Male,0,Yes,Yes,62,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),71.4,4487.3,No
+202006,45698299861,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44.4,44.4,Yes
+202006,45609275166,Male,0,No,No,36,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),79.2,2854.95,No
+202006,45462521352,Male,0,No,No,44,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.4,905.55,No
+202006,45072723628,Female,1,No,No,55,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,100,5509.3,Yes
+202006,45039225962,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),105,7589.8,No
+202006,45103851729,Female,0,Yes,Yes,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.8,229.6,Yes
+202006,45654944440,Female,0,No,No,13,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),30.85,394.1,No
+202006,4.53E+11,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.9,89.9,Yes
+202006,45042258787,Female,0,Yes,Yes,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.55,295.95,No
+202006,45691689095,Female,0,No,No,65,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),84.85,5459.2,No
+202006,45231659329,Female,0,Yes,Yes,12,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),33.15,444.75,No
+202006,45977857175,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),92,6782.15,No
+202006,45740856230,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89.8,6510.45,No
+202006,45600703090,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115.8,8476.5,No
+202006,45225241499,Male,0,No,Yes,52,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,85.15,4461.85,No
+202006,45871397595,Male,0,No,No,2,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,24.85,62,No
+202006,45790501301,Female,0,No,No,5,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,64.35,352.65,No
+202006,45769561235,Female,0,No,No,68,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.5,1424.9,No
+202006,45238223170,Female,0,No,Yes,62,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,100.15,6413.65,Yes
+202006,45837466281,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),86.05,6309.65,No
+202006,45220748801,Male,0,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,50.8,50.8,Yes
+202006,45322446747,Female,0,Yes,No,66,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,89,5898.6,No
+202006,45527563660,Male,0,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),64.8,4719.75,No
+202006,45479563130,Male,0,No,No,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),19.8,457.3,No
+202006,45977797826,Male,0,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),93.4,5822.3,No
+202006,45094736715,Male,1,Yes,No,20,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,73.65,1463.5,Yes
+202006,45994481112,Female,0,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.1,307.4,Yes
+202006,45412433502,Male,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),94.65,2104.55,Yes
+202006,45367198896,Male,0,Yes,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,80.6,319.15,Yes
+202006,45097935579,Male,0,Yes,No,62,No,No phone service,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),39,2337.45,No
+202006,45273299553,Female,0,No,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.5,104.3,No
+202006,45331371412,Male,0,Yes,No,59,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,One year,No,Electronic check,85.55,5084.65,Yes
+202006,45032332204,Male,0,No,Yes,3,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,26.4,121.25,No
+202006,45193750614,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),98.2,7015.9,No
+202006,45157327321,Male,0,Yes,Yes,57,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),97.55,5598,No
+202006,45176416630,Male,0,No,Yes,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.95,1269.1,No
+202006,45507323544,Female,0,No,No,60,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.8,3027.4,Yes
+202006,45471352680,Male,0,No,Yes,45,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),99.7,4634.35,No
+202006,45305072698,Female,0,No,No,3,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),34.8,113.95,No
+202006,45020734141,Female,0,No,No,15,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,105.1,1582.75,Yes
+202006,45787615897,Female,0,No,Yes,51,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),60.15,3077,No
+202006,45794582151,Female,0,No,No,60,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,One year,No,Electronic check,64.75,4039.5,No
+202006,45934214937,Male,0,No,No,33,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),54.65,1665.2,No
+202006,45985119526,Male,0,No,No,10,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110.1,1043.3,Yes
+202006,45352328762,Male,1,No,No,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),19.3,504.2,No
+202006,45390822946,Female,0,No,No,6,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,83.9,497.55,Yes
+202006,45319946134,Female,0,Yes,No,67,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111.25,7511.65,No
+202006,45517060811,Female,0,Yes,Yes,49,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,Yes,Credit card (automatic),35.8,1782,No
+202006,45466140563,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.05,20.05,No
+202006,45212317554,Female,1,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,84.35,609.65,No
+202006,45125843543,Female,1,No,No,27,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),110.5,2857.6,No
+202006,45004826329,Male,0,Yes,Yes,37,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Credit card (automatic),91.2,3247.55,No
+202006,45754934761,Female,0,Yes,Yes,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,100.55,6215.35,Yes
+202006,45589897926,Male,0,Yes,Yes,31,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,89.3,2823,No
+202006,45380481071,Male,0,Yes,Yes,50,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103.85,5017.9,Yes
+202006,45625920723,Male,1,No,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),81.1,2619.25,No
+202006,45922726427,Female,0,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24.6,24.6,Yes
+202006,45799751994,Female,0,Yes,No,63,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Credit card (automatic),81.2,4965.1,No
+202006,45073015115,Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),94.3,2679.7,No
+202006,45897591783,Male,0,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116.1,8310.55,No
+202006,45067882816,Female,0,No,No,53,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,105.55,5682.25,No
+202006,45431536824,Female,0,No,No,12,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98.9,1120.95,Yes
+202006,45226766931,Male,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),94.4,4914.9,No
+202006,45105175020,Female,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.5,27.55,No
+202006,45973442753,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),98.3,923.5,Yes
+202006,45271924175,Male,0,No,No,17,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,93.85,1625.65,Yes
+202006,45528531584,Female,0,Yes,No,56,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),105.6,6068.65,No
+202006,45037940788,Male,0,Yes,Yes,67,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),81.35,5398.6,No
+202006,45078121328,Male,1,No,No,9,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.5,918.6,Yes
+202006,45554374384,Male,0,No,No,4,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,56.4,234.85,No
+202006,45029782397,Male,0,No,No,19,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),65.35,1231.85,No
+202006,45469468262,Female,0,No,Yes,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.95,170.9,No
+202006,45083501145,Female,0,No,No,71,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,111.25,7984.15,No
+202006,45190762763,Male,1,No,No,10,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,72.85,688.65,Yes
+202006,45750893832,Female,1,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Credit card (automatic),89,1288.3,No
+202006,45386549500,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),106.1,7848.5,No
+202006,45599327851,Male,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.05,267,No
+202006,45602486778,Male,0,Yes,Yes,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),25.2,1798.9,No
+202006,45651355342,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.55,73.55,Yes
+202006,45395630690,Female,1,No,No,23,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.4,1643.55,No
+202006,45407922777,Male,0,No,No,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),65.55,4807.45,No
+202006,45610325356,Female,0,No,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,80.7,2193,No
+202006,45514907245,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,104.55,2239.4,No
+202006,45747124966,Male,0,Yes,No,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),24.15,1505.9,No
+202006,45894242385,Male,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.45,255.35,No
+202006,45430111511,Male,0,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.4,1189.4,No
+202006,45919962713,Female,0,Yes,No,63,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),79.7,4786.15,No
+202006,45482476324,Female,1,No,No,22,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,81.7,1820.9,No
+202006,45539380593,Female,0,Yes,Yes,32,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),76.3,2404.15,No
+202006,45707495150,Female,1,No,No,3,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79.4,205.05,Yes
+202006,45962579045,Female,0,No,No,13,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,81.15,952.3,Yes
+202006,45086268329,Female,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),103.75,7039.45,No
+202006,45881258866,Female,0,Yes,Yes,30,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,One year,No,Electronic check,86.45,2538.05,No
+202006,45514632155,Female,0,No,No,16,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),75.1,1212.85,No
+202006,45045451830,Male,0,No,No,33,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),80.6,2651.1,No
+202006,45578713794,Male,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.3,1304.8,No
+202006,45475058396,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.6,360.1,Yes
+202006,45419816551,Female,0,No,No,12,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,33.6,435.45,No
+202006,45663060534,Female,1,Yes,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,83.25,308.05,No
+202006,45570921557,Female,0,Yes,Yes,0,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,80.85,,No
+202006,45640022712,Female,0,No,No,6,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,79.05,434.5,Yes
+202006,45269217366,Female,0,Yes,No,65,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),108.05,7118.9,No
+202006,45034762165,Female,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.9,320.45,No
+202006,45083546697,Female,0,No,Yes,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),,531.55,No
+202006,45081179406,Female,0,No,Yes,13,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,30.15,382.2,No
+202006,45756753333,Male,0,No,No,24,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),79.85,2001,No
+202006,45611550267,Female,0,Yes,No,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),65.5,4919.7,No
+202006,45635328331,Female,0,Yes,Yes,54,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104.1,5645.8,No
+202006,45668021385,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),74.4,215.8,Yes
+202006,45623126768,Male,0,Yes,Yes,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.5,77.6,No
+202006,45990458510,Female,1,Yes,Yes,32,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,91.35,2896.55,No
+202006,45702841597,Male,1,No,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.05,3395.8,Yes
+202006,45616966503,Male,0,Yes,Yes,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.5,759.35,No
+202006,45420866672,Male,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44.95,85.15,Yes
+202006,45858413134,Female,0,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,75.6,535.55,No
+202006,45846724498,Male,0,No,No,22,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,55.1,1253.15,No
+202006,45085146012,Female,0,No,No,15,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,58.95,955.15,No
+202006,45538295452,Male,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.1,2162.6,No
+202006,45944885514,Male,0,Yes,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),44.7,44.7,Yes
+202006,45326137352,Female,0,Yes,Yes,71,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.45,1813.35,No
+202006,45838864465,Male,0,No,No,4,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,56.75,245.15,No
+202006,45400227267,Male,0,No,No,25,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),81.75,2028.8,No
+202006,45565142684,Female,0,Yes,Yes,32,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,86.1,2723.75,No
+202006,45282643275,Male,1,Yes,No,7,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),29.8,220.45,No
+202006,45437825466,Male,0,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,20.5,365.8,No
+202006,45948960611,Male,1,Yes,No,8,Yes,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),60.9,551.95,No
+202006,45484964827,Female,1,No,No,56,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),73.25,4054.2,No
+202006,45911798253,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.7,45.7,Yes
+202006,45988903187,Male,1,No,No,8,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),100.3,832.35,Yes
+202006,45454183827,Male,0,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,19.25,112.3,Yes
+202006,45776424655,Male,0,No,Yes,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.85,60.65,No
+202006,45342996253,Female,0,No,No,71,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),77.35,5550.1,No
+202006,45315835581,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,174.8,Yes
+202006,45729403156,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,90.55,90.55,Yes
+202006,45500273768,Male,0,Yes,No,49,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),93.85,4733.1,No
+202006,45055660576,Male,0,No,No,58,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),70.1,4048.95,No
+202006,45891964675,Male,1,Yes,No,44,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30.35,1359.7,Yes
+202006,45060408066,Female,0,Yes,Yes,59,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),75.95,4542.35,No
+202006,45283408061,Male,0,No,No,71,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,108.05,7532.15,Yes
+202006,45587546760,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.9,69.9,Yes
+202006,45587995942,Female,0,No,No,,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75.25,888.65,No
+202006,45664671328,Male,1,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,103.75,6383.35,Yes
+202006,45646166134,Female,0,Yes,Yes,35,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),54.95,1916,No
+202006,45331899767,Female,0,No,No,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),19.5,413,No
+202006,45110688215,Male,0,Yes,Yes,40,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.6,808.95,No
+202006,45248339935,Female,0,No,No,39,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Electronic check,47.85,1886.4,No
+202006,45860390244,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86.6,86.6,Yes
+202006,45816550843,Female,0,Yes,Yes,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),23.75,1679.25,No
+202006,45936936581,Female,1,Yes,No,33,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.6,2656.5,Yes
+202006,45260431413,Female,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),43.8,540.95,No
+202006,45371756804,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),19.75,19.75,No
+202006,45904602621,Male,0,No,Yes,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.15,537.35,No
+202006,45328043613,Male,0,Yes,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),19.6,678.8,No
+202006,45120658244,Female,0,Yes,No,56,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Two year,No,Bank transfer (automatic),80.3,4513.65,No
+202006,45836122849,Female,0,No,No,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),24.35,1423.85,No
+202006,45488313650,Female,0,Yes,Yes,22,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.25,555.4,No
+202006,45910857647,Female,0,Yes,Yes,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),26.1,225.55,No
+202006,45727711320,Male,0,No,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20,268.45,No
+202006,45384294165,Female,0,No,No,35,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),85.3,2917.5,Yes
+202006,45664138696,Female,0,No,No,34,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,2416.1,Yes
+202006,45137443569,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.3,424.45,Yes
+202006,45254523410,Male,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.7,1492.1,No
+202006,45323411136,Male,0,No,No,2,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,70.3,132.4,No
+202006,45835757365,Female,0,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.35,660.9,Yes
+202006,45198968086,Male,1,Yes,No,27,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.5,1893.95,Yes
+202006,45812004313,Male,0,Yes,Yes,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.55,284.9,No
+202006,45891761538,Female,0,No,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.85,784.25,No
+202006,45704743435,Male,0,No,No,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20,417.7,No
+202006,45285859338,Female,1,Yes,No,53,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),95.85,5016.25,No
+202006,45952457603,Female,0,No,No,18,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,90.1,1612.75,Yes
+202006,45699358238,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,68.95,119.75,Yes
+202006,45881834637,Male,0,Yes,Yes,32,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.55,3204.65,Yes
+202006,45641950025,Male,1,Yes,No,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.75,485.2,No
+202006,45092984752,Male,0,No,No,3,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.15,160.85,No
+202006,45661445213,Female,0,Yes,Yes,71,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,58.65,4145.25,No
+202006,45742688576,Male,0,No,No,9,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.9,827.45,No
+202006,45406500111,Female,0,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,49.5,49.5,No
+202006,45469511486,Male,0,Yes,Yes,18,Yes,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,57.45,990.85,Yes
+202006,45386396208,Male,0,Yes,Yes,12,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),53.65,696.35,Yes
+202006,45764999006,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,80.1,5585.4,No
+202006,45936144720,Female,0,No,No,64,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),24.4,1601.2,No
+202006,45374861355,Male,0,No,No,4,No,No phone service,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,40.05,162.45,No
+202006,45939100548,Female,0,No,No,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.5,470.2,No
+202006,45145238901,Female,0,Yes,Yes,39,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),51.05,2066,No
+202006,45342220544,Male,0,Yes,No,28,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,54.35,1426.45,No
+202006,45824295765,Female,1,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.7,392.5,No
+202006,45746090226,Female,1,Yes,No,45,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,86.1,3861.45,No
+202006,45714714211,Male,0,No,No,37,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.35,2552.9,No
+202006,45786803235,Female,1,Yes,No,60,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,6668.35,No
+202006,45482281422,Male,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.6,819.4,Yes
+202006,45673265676,Female,0,No,No,47,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Credit card (automatic),94.9,4615.25,No
+202006,45843620633,Male,0,Yes,Yes,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,83.75,2070.6,Yes
+202006,45418400614,Female,1,Yes,Yes,3,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,88.3,273.75,Yes
+202006,45832972160,Female,0,Yes,Yes,50,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.75,3557.7,No
+202006,45135218110,Male,0,Yes,Yes,27,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),71.6,1957.1,No
+202006,45414567367,Female,1,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.1,729.95,Yes
+202006,45263201332,Female,0,Yes,No,62,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),23.65,1416.75,No
+202006,45814677158,Female,0,Yes,No,71,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),81.85,5924.4,No
+202006,45176730121,Male,0,No,No,66,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.1,1697.7,No
+202006,45644504839,Male,0,Yes,Yes,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.7,7849.85,No
+202006,45458124263,Female,0,No,No,13,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,49.15,649.4,No
+202006,45486956969,Male,0,Yes,No,56,Yes,No,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Electronic check,80.9,4557.5,No
+202006,45994846047,Male,0,Yes,No,38,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79.45,3013.05,Yes
+202006,45123626341,Male,1,No,No,14,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),90.45,1266.1,Yes
+202006,45191551124,Female,0,No,Yes,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),19.3,360.35,No
+202006,45729669374,Female,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.2,1046.5,No
+202006,45488379398,Male,0,Yes,Yes,32,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.75,2347.9,Yes
+202006,45335451406,Female,0,No,No,8,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),54.25,447.75,No
+202006,45352427497,Female,0,Yes,Yes,43,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99.3,4209.95,No
+202006,45081048424,Female,0,No,No,52,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Credit card (automatic),74,3877.65,No
+202006,45402691182,Male,0,No,No,3,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,50.25,152.3,No
+202006,45282984156,Male,0,No,No,29,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,19.8,572.2,No
